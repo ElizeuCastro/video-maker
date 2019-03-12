@@ -1,0 +1,19 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Projeto para fazer vídeos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElizeuCastro/video-maker.git"
+  },
+  "author": "elizeu.castro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElizeuCastro/video-maker/issues"
+  },
+  "homepage": "https://github.com/ElizeuCastro/video-maker#readme"
+}
